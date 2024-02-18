@@ -1,0 +1,3 @@
+name = "Log"
+grammar = "log"
+path_suffixes = ["log"]
