@@ -1,3 +1,3 @@
 # zed-log
 
-LOG support in [Zed](https://github.com/zed-industries/zed).
+Log file syntax highlighting for [Zed](https://github.com/zed-industries/zed).
