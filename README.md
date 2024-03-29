@@ -2,6 +2,8 @@
 
 Syntax highlighting for log files in [Zed](https://github.com/zed-industries/zed).
 
+![image.png](https://s2.loli.net/2024/03/29/dVPXl1m5Z8JFQ7R.png)
+
 ### Test locally
 
 - Clone this repo: `git clone https://github.com/evrsen/zed-log log`
