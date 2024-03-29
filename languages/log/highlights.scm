@@ -1,4 +1,4 @@
-(trace) @ui.virtual.inlay-hint
+(trace) @hint
 (debug) @diff.plus
 (info) @info
 (warn) @warning
