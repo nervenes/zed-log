@@ -1,6 +1,6 @@
 {
     "name": "LOG",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "authors": ["evrsen"],
     "description": "Syntax highlighting for log files.",
     "repository": "https://github.com/evrensen467/zed-log"
