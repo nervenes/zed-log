@@ -1,0 +1,11 @@
+id = "log"
+name = "LOG"
+schema_version = 1
+version = "0.0.5"
+authors = ["evrensen467"]
+description = "Syntax highlighting for log files."
+repository = "https://github.com/evrensen467/zed-log"
+
+[grammars.log]
+repository = "https://github.com/Tudyx/tree-sitter-log"
+commit = "62cfe307e942af3417171243b599cc7deac5eab9"
