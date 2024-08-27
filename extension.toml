@@ -4,7 +4,7 @@ schema_version = 1
 version = "0.0.6"
 authors = ["nervenes"]
 description = "Syntax highlighting for log files."
-repository = "https://github.com/evrensen467/zed-log"
+repository = "https://github.com/nervenes/zed-log"
 
 [grammars.log]
 repository = "https://github.com/Tudyx/tree-sitter-log"
