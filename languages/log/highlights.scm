@@ -7,5 +7,5 @@
 (year_month_day) @keyword
 (time) @constant
 (string_literal) @string
-(number) @constant.numeric
+(number) @number
 (constant) @constant.builtin
